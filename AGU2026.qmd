@@ -1,14 +1,17 @@
 ---
-title: "COMPASS at AGU2026"
-format: html
+title: ""
+format:
+  html:
+    toc: true
 ---
 
-![](COMPASS-project-logo_0.jpg)
+![](COMPASS-project-logo_0.jpg){width=450 fig-align="center"}
 
+# About COMPASS
 
-**[Coastal Observations, Mechanisms, and Predictions Across Systems and Scales (COMPASS)](https://www.pnnl.gov/projects/coastal-observations-mechanisms-and-predictions-across-systems-and-scales-compass)**
+[The COMPASS project](https://www.pnnl.gov/projects/coastal-observations-mechanisms-and-predictions-across-systems-and-scales-compass) is funded by DOE's [Environmental System Science Program](https://ess.science.energy.gov) and aims to improve fundamental scientific understanding, model representation, and predictive capacity of coastal systems.
 
-**Improving fundamental scientific understanding, model representation, and predictive capacity of coastal systems.**
+# COMPASS presentations at [AGU2026](https://www.agu.org/annual-meeting)
 
 ## Monday
 
