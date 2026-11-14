@@ -3,6 +3,9 @@ title: "COMPASS at AGU2026"
 format: html
 ---
 
+![](COMPASS-project-logo_0.jpg)
+
+
 **[Coastal Observations, Mechanisms, and Predictions Across Systems and Scales (COMPASS)](https://www.pnnl.gov/projects/coastal-observations-mechanisms-and-predictions-across-systems-and-scales-compass)**
 
 **Improving fundamental scientific understanding, model representation, and predictive capacity of coastal systems.**
