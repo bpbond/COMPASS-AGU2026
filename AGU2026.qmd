@@ -38,11 +38,6 @@ format: html
 
 ## Thursday
 
-**[B41B-02 Wetland lateral transport along a marsh salinity gradient: impacts of biogeochemistry exceed salinity](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2093681)**  
-08:40 - 08:50  
-3011 - West (MC)  
-[Stephanie J Wilson, Smithsonian Environmental Research Center](https://serc.si.edu/staff/wilsonsj)
-
 **[B41G-2024 Going with the flow: Microbial redistribution during storms](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2096936)**  
 08:30 - 12:00  
 South - Poster Hall (Hall ABC) (MC)  
@@ -73,15 +68,20 @@ South - Poster Hall (Hall ABC) (MC)
 South - Poster Hall (Hall ABC) (MC)  
 [Edward J O'Loughlin, Argonne National Laboratory](https://www.anl.gov/profile/edward-j-oloughlin)
 
-**[B43E-04 Does Repeated Coastal Flooding Reshape Ecosystem Biogeochemistry?](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2083058)**  
-14:47 - 14:57  
-3014 - West (MC)  
-[Jianqiu Zheng, Pacific Northwest National Laboratory](https://www.pnnl.gov/people/jianqiu-zheng)
+**[B41B-02 Wetland lateral transport along a marsh salinity gradient: impacts of biogeochemistry exceed salinity](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2093681)**  
+08:40 - 08:50  
+3011 - West (MC)  
+[Stephanie J Wilson, Smithsonian Environmental Research Center](https://serc.si.edu/staff/wilsonsj)
 
 **[OS42B-02 Reconstruction of nearshore water surface elevation with SWOT to force a land surface model](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2078783)**  
 10:50 - 11:00  
 2004 - West (MC)  
 [Etienne Fluet-Chouinard, Pacific Northwest National Laboratory](https://www.pnnl.gov/people/etienne-fluet-chouinard)
+
+**[B43E-04 Does Repeated Coastal Flooding Reshape Ecosystem Biogeochemistry?](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2083058)**  
+14:47 - 14:57  
+3014 - West (MC)  
+[Jianqiu Zheng, Pacific Northwest National Laboratory](https://www.pnnl.gov/people/jianqiu-zheng)
 
 ## Friday
 
@@ -89,11 +89,6 @@ South - Poster Hall (Hall ABC) (MC)
 08:30 - 12:00  
 South - Poster Hall (Hall ABC) (MC)  
 [Julianna Mullen, Ursinus College](https://www.ursinus.edu/live/profiles/11130-julianna-mullen)
-
-**[B51B-02 Using Soil Respiration Observations to Inform Mechanistic Modeling of the Global Carbon Cycle](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2070024)**  
-08:49 - 09:07  
-3012 - West (MC)  
-[Ben P Bond-Lamberty, Pacific Northwest National Laboratory](https://www.pnnl.gov/people/ben-bond-lamberty)
 
 **[B51L-1856 Tree mortality mechanisms in coastal forests under saltwater exposure](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2095474)**  
 08:30 - 12:00
@@ -104,3 +99,8 @@ South - Poster Hall (Hall ABC) (MC)
 08:30 - 08:40
 3009 - West (MC)  
 [James O'Sullivan, Argonne National Laboratory](https://www.linkedin.com/in/jbosullivan94/)
+
+**[B51B-02 Using Soil Respiration Observations to Inform Mechanistic Modeling of the Global Carbon Cycle](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2070024)**  
+08:49 - 09:07  
+3012 - West (MC)  
+[Ben P Bond-Lamberty, Pacific Northwest National Laboratory](https://www.pnnl.gov/people/ben-bond-lamberty)
